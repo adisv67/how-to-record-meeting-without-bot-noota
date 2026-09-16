@@ -1,4 +1,4 @@
-# how-to-record-meeting-without-bot-noota
+# how-to-record-meeting-without-bot-noota by https://www.noota.io/en/how-to-record-meeting-without-bots
 cat << 'EOF' > README.md
 # PolyMeetAI 🎙️🤖
 
