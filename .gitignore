@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
+
+# Environment secrets
+.env
+.env.*
+
+# ML models (usually large)
+models/
